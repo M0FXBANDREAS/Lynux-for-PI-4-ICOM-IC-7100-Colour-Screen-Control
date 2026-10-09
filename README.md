@@ -1,3 +1,6 @@
+[HamTec-IC7100-705-Style (1).zip](https://github.com/user-attachments/files/33263912/HamTec-IC7100-705-Style.1.zip)
+
+
 # HamTec IC-7100 Raspberry Pi panel — v0.1
 
 Local Linux browser panel inspired by the IC-705 screen organization. Designed for a Raspberry Pi 4 with a landscape touch display; 1024×600 or larger is preferred. It adapts to smaller displays. This is an independent project, not Icom software.
